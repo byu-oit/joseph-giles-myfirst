@@ -26,6 +26,8 @@ software:
     microservice: true # optional
     technologies_used: # optional
       - JavaScript
+      - CircleCI.com
+      - NodeJS
     standard_change_template:
     stages:
       development:
